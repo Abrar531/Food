@@ -1,0 +1,156 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #E5E5E5;
+}
+
+/* first page */
+.first-country{
+    display: flex;
+}
+.first-city1{
+    margin: 180px;
+}
+.first-city2{
+    margin-top: 70px;
+    width: 80%;
+}
+#cow{
+    color: #FBA24F;
+}
+.mango{
+    font-size: 40px;
+}
+.veg{
+    text-decoration: none;
+    border: 1px solid;
+    background-image: linear-gradient(#FBA24F, tomato);
+    color: whitesmoke;
+    font-size: large;
+    font-weight: bold;
+    padding: 10px;
+    box-shadow: 10px 10px grey;
+}
+
+/* second page */
+
+.second-country{
+    display: flex;
+    background-image: url(/Assignments/food-network-main/images/shapes/7.png);
+}
+.second-city1{
+    width: 44%;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+.second-city2{
+    width: 30%;
+    margin-top: 200px;
+}
+#second-image{
+    width: 500px;
+}
+
+/* third page */
+
+#chip{
+    text-align: center;
+    font-size: 40px;
+    color: #FBA24F;
+}
+
+#cook{
+    text-align: center;
+}
+
+.third-container{
+    display: flex;
+    margin-top: 50px;
+}
+.third-city1{
+    width: 25%;
+    padding: 20px;
+    border-radius: 30px;
+    background: #FFFFFF;
+    margin-left: 70px;
+}
+
+.third-city2{
+    width: 25%;
+    padding: 20px;
+    border-radius: 30px;
+    background: #FFFFFF;
+    margin-left: 70px;
+}
+
+.third-city3{
+    width: 25%;
+    padding: 20px;
+    border-radius: 30px;
+    background: #FFFFFF;
+    margin-left: 70px;
+}
+#third-img1{
+    width: 50%;
+    border-radius: 20px;
+}
+
+#third-img2{
+    width: 50%;
+    border-radius: 20px;
+}
+
+#third-img3{
+    width: 50%;
+    border-radius: 20px;
+
+}
+
+.head{
+    width: 80%;
+    text-decoration: none;
+}
+
+/* forth page */
+
+.forth-country{
+    width: 50%;
+    padding: 40px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 70px;
+    margin-left: 420px;
+    padding-left: 250px;
+    background: #FFFFFF;
+    border-radius: 200px;
+}
+.forth-city2{
+
+    margin-left: 30px;
+}
+.forth-city3{
+
+    margin-left: 30px;
+}
+
+/* fifith page */
+
+.footer{
+    margin-top: 70px;
+    background: #0B0D17;
+    border-radius: 200px ;
+    padding: 30px;
+    padding-left: 750px;
+}
+
+#spd{
+    color: #FBA24F;
+}
+
+#hello{
+    padding-left: 150px;
+    color: grey;
+}
+
+#blueman{
+    color: whitesmoke;
+}
